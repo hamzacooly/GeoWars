@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Shariq Memon\Desktop\Lab10\SpaceInvaders.uvproj
+Project File Date:  04/28/2016
+
+<h2>Output:</h2>
+Load "C:\\Users\\Shariq Memon\\Desktop\\Lab10\\SpaceInvaders.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
